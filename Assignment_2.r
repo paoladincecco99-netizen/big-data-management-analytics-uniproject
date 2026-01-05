@@ -1,5 +1,5 @@
 # Setting working directory
-setwd("~/Desktop/BDMA")
+setwd("")
  
 # Installing and loading packages
 install.packages(c("dplyr", "ggplot2","readr", "viridis", "RColorBrewer", "corrplot", "stargazer", "rpart", "rpart.plot"))
